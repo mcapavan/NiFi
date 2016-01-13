@@ -12,4 +12,4 @@ Provenance is defined as the place of origin or earliest known history of some t
 
 NiFi Architecture
 
-![alt text](https://github.com/mcapavan/NiFi/blob/master/Images/building-data-pipelines-for-solr-with-apache-nifi-12-638.jpg "NiFi Architecture")
+![alt text](https://github.com/mcapavan/NiFi/blob/master/Images/building-data-pipelines-for-solr-with-apache-nifi-12-638.png "NiFi Architecture")
