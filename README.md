@@ -49,4 +49,8 @@ sudo service nifi start
 service nifi status
 sudo service nifi stop
 ```
-To get started, open a web browser and navigate to http:// localhost:8080/nifi. The port can be changed by editing the nifi.properties file in the NiFi conf directory, but the default port is 8080
+To get started, open a web browser and navigate to
+```
+http://localhost:8080/nifi
+```
+The port can be changed by editing the nifi.properties file in the NiFi conf directory, but the default port is 8080
