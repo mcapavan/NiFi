@@ -29,6 +29,10 @@ To install via Homebrew, simply run the command
 ```
 brew install nifi
 ```
+Alternatively download the zip file
+```
+wget http://public-repo-1.hortonworks.com/HDF/1.1.1.0/nifi-1.1.1.0-12-bin.zip
+```
 
 Starting NiFi on OSX:
 To run NiFi in the foreground, run
